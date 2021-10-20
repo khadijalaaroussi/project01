@@ -16,7 +16,7 @@
         <tr>
             <th>title</th>
             <th>body</th>
-            <th>Actions</th></tr>
+           </tr>
 </div>
     </div>
 </template>
